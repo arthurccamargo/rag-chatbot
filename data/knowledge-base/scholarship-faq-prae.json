@@ -1,0 +1,116 @@
+[
+  {
+    "id": "scholarship-001",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "Os Benefícios PRAE são auxílios oferecidos para estudantes em vulnerabilidade socioeconômica com o objetivo de garantir condições de permanência e conclusão do curso de graduação. Os benefícios existentes são: Restaurante Universitário (RU), Auxílio Material de Ensino (AME), Auxílio Inclusão Digital, Auxílio Parental, Moradia Estudantil, Atendimento a estudantes com deficiência ou transtornos globais do desenvolvimento e Programa Saúde. Já as Bolsas PRAE têm objetivo diferente: proporcionar ao aluno experiência profissional em nível técnico e administrativo, complementando a formação acadêmica com auxílio financeiro. As bolsas gerenciadas pela PRAE são a Bolsa Aperfeiçoamento e a Bolsa de Informática.",
+    "metadata": {
+      "section": "Benefícios PRAE vs Bolsas PRAE",
+      "benefits_list": ["RU", "AME", "Auxílio Inclusão Digital", "Auxílio Parental", "Moradia Estudantil", "Programa Saúde"],
+      "scholarships_list": ["Bolsa Aperfeiçoamento", "Bolsa de Informática"]
+    }
+  },
+  {
+    "id": "scholarship-002",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "Podem ser beneficiários PRAE apenas estudantes de curso de graduação presencial da UFRGS com vulnerabilidade socioeconômica, que não possuam outro curso de graduação completo e que atendam os requisitos do edital específico. A partir de 2026, também pode ser contemplado o estudante que tenha concluído graduação anteriormente, desde que tenha ingressado por ação afirmativa (cotas) e o vínculo atual seja em curso de graduação presencial com carga horária a partir de 5 mil horas. Para se tornar beneficiário, o estudante deve: acessar o edital no site da PRAE; fazer a solicitação no portal do aluno a cada semestre; preencher o cadastro socioeconômico; e entregar a documentação solicitada, quando necessário.",
+    "metadata": {
+      "section": "Quem pode ser beneficiário PRAE e como solicitar",
+      "target_audience": "estudantes de graduação presencial com vulnerabilidade socioeconômica",
+      "edital_url": "https://www.ufrgs.br/prae/editais-e-formularios/#editais",
+      "renewal": "a cada semestre via portal do aluno"
+    }
+  },
+  {
+    "id": "scholarship-003",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "Estudantes que ingressaram por cotas de renda nas modalidades L1, L2, L9 e L10 não precisam entregar documentos para a primeira solicitação do programa de benefícios PRAE. A PRAE não avisa os estudantes sobre datas de renovação ou abertura de novos editais — as divulgações são feitas no site da PRAE e cabe ao estudante verificar periodicamente. A troca de curso não obriga o estudante a entregar toda a documentação novamente. A renovação dos benefícios deve ser feita a cada semestre pelo Portal do Aluno.",
+    "metadata": {
+      "section": "Benefícios PRAE - Cotas, renovação e troca de curso",
+      "quota_modalities_exempt_from_docs": ["L1", "L2", "L9", "L10"],
+      "prae_notifies_students": false
+    }
+  },
+  {
+    "id": "scholarship-004",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "Após o deferimento dos benefícios PRAE, o estudante pode usufruir do RU e do Programa Saúde imediatamente. Para os auxílios financeiros, o pagamento depende da data do deferimento e do fechamento da folha de pagamento. O pagamento das bolsas e benefícios ocorre em geral entre o último dia do mês e o 5º dia útil do mês seguinte. Para receber os benefícios pecuniários, o estudante precisa ter conta corrente no Banco do Brasil (não pode ser poupança, conta salário ou em nome de terceiros) e informá-la no Portal do Aluno em: portal do aluno > Assistência estudantil > Atualização de dados bancários.",
+    "metadata": {
+      "section": "Pagamento de benefícios PRAE",
+      "payment_window": "entre o último dia do mês e o 5º dia útil do mês seguinte",
+      "required_bank": "Banco do Brasil",
+      "account_type": "conta corrente",
+      "portal_path": "portal do aluno > Assistência estudantil > Atualização de dados bancários"
+    }
+  },
+  {
+    "id": "scholarship-005",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "Estudantes em Mobilidade Acadêmica na UFRGS que sejam beneficiários na universidade de origem têm direito a: gratuidade no RU, Auxílio Transporte, Auxílio Material de Ensino, Auxílio Inclusão Digital, Programa Saúde e alojamento na moradia estudantil (conforme disponibilidade de vagas). A solicitação deve ser feita via SEI: acessar aluno.sei.ufrgs.br, abrir processo 'Assistência Estudantil – Benefício para aluno em mobilidade', preencher os dados e anexar documento que comprove a condição de beneficiário da universidade de origem.",
+    "metadata": {
+      "section": "Benefícios para alunos em Mobilidade Acadêmica",
+      "sei_url": "aluno.sei.ufrgs.br",
+      "process_name": "Assistência Estudantil – Benefício para aluno em mobilidade",
+      "benefits_available": ["RU gratuito", "Auxílio Transporte", "AME", "Auxílio Inclusão Digital", "Programa Saúde", "Moradia Estudantil"]
+    }
+  },
+  {
+    "id": "scholarship-006",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "A Bolsa Permanência é gerenciada diretamente pelo MEC, não pela PRAE. Atualmente, apenas estudantes indígenas e quilombolas podem solicitar. As inscrições são feitas pelo próprio aluno no Sistema de Gestão da Bolsa Permanência (SISBP) em sisbp.mec.gov.br, somente quando o MEC abre o período de inscrições. A PRAE divulga em sua página quando há inscrições abertas. Os pagamentos são realizados pelo FNDE e podem ser consultados no site do FNDE.",
+    "metadata": {
+      "section": "Bolsa Permanência MEC",
+      "managed_by": "MEC (não pela PRAE)",
+      "eligible_students": ["indígenas", "quilombolas"],
+      "sisbp_url": "sisbp.mec.gov.br",
+      "payments_by": "FNDE"
+    }
+  },
+  {
+    "id": "scholarship-007",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "As Bolsas PRAE (Aperfeiçoamento e Informática) são ofertadas pelas unidades acadêmicas e administrativas da UFRGS e divulgadas principalmente no Mural de Bolsas (www.ufrgs.br/bolsas). As vagas surgem a qualquer momento conforme necessidade das unidades. Alunos com benefício PRAE podem se candidatar a qualquer vaga. Alunos sem benefício PRAE podem se candidatar apenas às vagas de Bolsa Aperfeiçoamento e Informática gerais. O acesso à vaga exige desempenho acadêmico com TIM igual ou superior a 20% da TIM do curso. Para ativar a bolsa após aprovação, o estudante deve assinar o Termo de Compromisso no Portal do Aluno em: Portal do Aluno > guia Aluno > menu Documentos > Termos > Bolsas Assuntos Estudantis.",
+    "metadata": {
+      "section": "Bolsas PRAE - Aperfeiçoamento e Informática",
+      "scholarships": ["Bolsa Aperfeiçoamento", "Bolsa de Informática"],
+      "vacancies_board_url": "www.ufrgs.br/bolsas",
+      "min_tim_percentage": "20% da TIM do curso",
+      "activation_path": "Portal do Aluno > guia Aluno > Documentos > Termos > Bolsas Assuntos Estudantis"
+    }
+  },
+  {
+    "id": "scholarship-008",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "scholarship",
+    "content": "O Auxílio Participação em Eventos da PRAE está aberto para todos os estudantes de graduação presencial da UFRGS, não apenas para beneficiários PRAE. O auxílio cobre eventos acadêmicos, culturais ou esportivos extracurriculares — não cobre custos de disciplinas ou atividades curriculares obrigatórias. Participação como ouvinte é permitida apenas para estudantes com benefício PRAE deferido. Estudantes sem benefício PRAE precisam ser apresentadores ou integrar equipe esportiva. Não é necessário devolver o valor recebido caso não gaste tudo, após entregar o Certificado de Participação. Em caso de cancelamento do evento ou não participação, deve-se devolver o auxílio.",
+    "metadata": {
+      "section": "Auxílio Participação em Eventos",
+      "eligible_students": "todos os estudantes de graduação presencial",
+      "covers": "eventos acadêmicos, culturais ou esportivos extracurriculares",
+      "does_not_cover": "atividades curriculares obrigatórias",
+      "observer_participation": "apenas para beneficiários PRAE"
+    }
+  }
+]

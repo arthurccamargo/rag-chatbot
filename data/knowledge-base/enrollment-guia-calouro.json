@@ -1,0 +1,42 @@
+[
+  {
+    "id": "enrollment-001",
+    "source": "Guia do Calouro UFRGS — Faculdade de Arquitetura (adaptado)",
+    "type": "pdf",
+    "url": "https://www.ufrgs.br/academicoarqdesign/",
+    "category": "enrollment",
+    "content": "O Portal do Aluno é o sistema principal para a vida acadêmica na UFRGS. Nele é possível visualizar notas, fazer a matrícula em disciplinas (a partir do segundo semestre), acessar atestados, grades de horários e planos de ensino. Para acessar o Portal do Aluno, é necessário ter o cartão UFRGS — o número do cartão deve ser digitado no campo 'Usuário'. Para gerar uma senha provisória de acesso, basta ligar para a Central de Atendimento do Centro de Processamento de Dados (CPD) pelo telefone 3308-5333, das 8h às 20h.",
+    "metadata": {
+      "section": "Portal do Aluno",
+      "cpd_phone": "3308-5333",
+      "cpd_hours": "8h às 20h"
+    }
+  },
+  {
+    "id": "enrollment-002",
+    "source": "Guia do Calouro UFRGS — Faculdade de Arquitetura (adaptado)",
+    "type": "pdf",
+    "url": "https://www.ufrgs.br/academicoarqdesign/",
+    "category": "enrollment",
+    "content": "A matrícula em disciplinas na UFRGS é feita pelo Portal do Aluno. No primeiro semestre, os alunos são ordenados de acordo com a colocação no vestibular. A partir do segundo semestre, os conceitos acadêmicos são levados em conta para o ordenamento (ordem de prioridade na matrícula). No Portal do Aluno, na seção Tutoriais – Graduação, há um roteiro completo sobre como fazer a matrícula online e como funciona o sistema de ordenamento.",
+    "metadata": {
+      "section": "Matrícula e ordenamento",
+      "first_semester_order": "colocação no vestibular",
+      "subsequent_semesters_order": "conceitos acadêmicos"
+    }
+  },
+  {
+    "id": "enrollment-003",
+    "source": "Guia do Calouro UFRGS — Faculdade de Arquitetura (adaptado)",
+    "type": "pdf",
+    "url": "https://www.ufrgs.br/academicoarqdesign/",
+    "category": "enrollment",
+    "content": "O Cartão UFRGS é o documento de identificação necessário para utilizar os serviços da universidade, incluindo bibliotecas, restaurantes universitários e acesso a determinados prédios. O cartão é feito gratuitamente na Central de Identificação, localizada no Anexo 1 da Reitoria, na portaria ao lado da GERTE, no Campus Centro. A foto é tirada no momento da emissão. Para mais informações, ligue 3308-3038.",
+    "metadata": {
+      "section": "Cartão UFRGS",
+      "cost": "gratuito",
+      "location": "Central de Identificação — Anexo 1 da Reitoria, Campus Centro",
+      "phone": "3308-3038"
+    }
+  }
+]

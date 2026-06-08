@@ -1,0 +1,101 @@
+[
+  {
+    "id": "enrollment-004",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "Na UFRGS, a matrícula se efetiva pela inscrição em uma ou mais Atividades de Ensino (disciplinas, estágios, TCC etc.). Para efetivar a matrícula em período letivo regular, é necessário: manifestação do discente dentro dos prazos do Calendário Escolar sobre quais Atividades de Ensino pretende cursar; existência de vagas nas atividades solicitadas; ausência de colisão de horários entre elas; não ter sido previamente aprovado na atividade pretendida; e cumprimento dos pré-requisitos exigidos. A matrícula é feita dentro dos prazos fixados no Calendário Escolar da Universidade, e o planejamento do processo cabe à PROGRAD.",
+    "metadata": {
+      "section": "Da Matrícula",
+      "legal_reference": "Resolução 11/2013, Art. 18"
+    }
+  },
+  {
+    "id": "enrollment-005",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "O vínculo do discente com um curso de graduação da UFRGS começa pela satisfação das exigências do processo seletivo e apresentação dos documentos comprobatórios. O vínculo é mantido por meio de: matrícula efetivada em uma ou mais Atividades de Ensino; licenças e afastamentos acadêmicos; licenças e afastamentos por força maior; ou matrícula em nenhuma Atividade de Ensino (a título de excepcionalidade, quando não há oferta que permita cumprir o currículo, ou quando o ingresso ocorre após o início do período letivo). Não é permitido cursar simultaneamente mais de um curso de graduação na UFRGS.",
+    "metadata": {
+      "section": "Do Vínculo",
+      "legal_reference": "Resolução 11/2013, Arts. 6º, 15 e 17"
+    }
+  },
+  {
+    "id": "enrollment-006",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "O pré-requisito de uma Atividade de Ensino é o conjunto de conhecimentos e habilidades que o discente deve possuir para cursá-la. Pode ser expresso por: outras Atividades de Ensino, posicionamento curricular ou número de créditos. O discente aprovado no Concurso Vestibular, SiSU, Processo Seletivo para Estudantes Indígenas ou PEC-G tem vaga assegurada nas Atividades de Ensino da primeira etapa do curso, conforme o ordenamento de matrícula. São garantidas vagas nas Atividades de Ensino obrigatórias da etapa em que o discente se encontra. O aconselhamento à matrícula é competência da Comissão de Graduação.",
+    "metadata": {
+      "section": "Dos Pré-requisitos",
+      "legal_reference": "Resolução 11/2013, Arts. 18 a 21"
+    }
+  },
+  {
+    "id": "enrollment-007",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "A ordem de precedência dos discentes nos procedimentos de matrícula é definida pelo ordenamento de matrícula, gerado semestralmente conforme Resolução do CEPE. Ao final do período de matrícula, havendo vagas, são atendidos primeiro os discentes em Mobilidade Acadêmica, depois os discentes regulares que requereram matrícula extracurricular, seguidos dos Discentes Visitantes e Discentes Especiais. Durante o período de matrícula, o discente pode excluir Atividades de Ensino nas quais se matriculou, mas não é permitido excluir todas as atividades.",
+    "metadata": {
+      "section": "Da Ordem e Exclusão de Matrícula",
+      "legal_reference": "Resolução 11/2013, Arts. 23, 24 e 24A"
+    }
+  },
+  {
+    "id": "enrollment-008",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "A matrícula extracurricular permite ao discente solicitar matrícula em Atividades de Ensino de currículos diferentes daquele a que está vinculado. O discente pode solicitar matrícula extracurricular em no máximo 2 (duas) Atividades de Ensino a cada matrícula. A Comissão de Graduação pode definir quais Atividades de Ensino do curso são passíveis de matrícula extracurricular.",
+    "metadata": {
+      "section": "Da Matrícula Extracurricular",
+      "max_activities": 2,
+      "legal_reference": "Resolução 11/2013, Art. 22"
+    }
+  },
+  {
+    "id": "enrollment-009",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "As correções de matrícula só são cabíveis em razão de falha de responsabilidade da Universidade, apurada em processo administrativo e obedecendo o ordenamento de matrícula. Excepcionalmente, outras correções podem ser feitas com motivo justificado e comprovado via processo administrativo, após parecer favorável da Comissão de Graduação. As correções só podem ser realizadas em turmas com vagas disponíveis, ou com concordância da Chefia do Departamento ou Coordenação da Comissão de Graduação em ampliar vagas.",
+    "metadata": {
+      "section": "Das Correções de Matrícula",
+      "legal_reference": "Resolução 11/2013, Art. 25"
+    }
+  },
+  {
+    "id": "enrollment-010",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "O discente de graduação da UFRGS pode solicitar aproveitamento de estudos realizados em outras Instituições de Ensino Superior, em nível de Graduação ou Pós-Graduação, desde que esses estudos tenham sido concluídos antes do último ingresso no curso da UFRGS em que pretende a equivalência. O aproveitamento é permitido quando as atividades curriculares realizadas com aprovação em outra instituição guardarem equivalência com as atividades curriculares da UFRGS, à luz do projeto pedagógico do curso.",
+    "metadata": {
+      "section": "Do Aproveitamento de Estudos",
+      "legal_reference": "Resolução 11/2013, Art. 52"
+    }
+  },
+  {
+    "id": "enrollment-011",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "enrollment",
+    "content": "O ingresso como discente especial permite cursar Atividades de Ensino isoladas com o objetivo de complementar, atualizar ou aprofundar a formação profissional. O discente especial pode matricular-se em até 2 Atividades de Ensino por matrícula, não excedendo um total de 6 Atividades de Ensino de um mesmo curso de graduação. A condição de discente especial não configura vínculo como discente regular da UFRGS. Não é concedida matrícula nesta modalidade a discente já regularmente matriculado na Universidade, e ela depende de vagas e parecer favorável da Comissão de Graduação.",
+    "metadata": {
+      "section": "Do Discente Especial",
+      "max_activities_per_enrollment": 2,
+      "max_total_activities": 6,
+      "legal_reference": "Resolução 11/2013, Art. 72"
+    }
+  }
+]

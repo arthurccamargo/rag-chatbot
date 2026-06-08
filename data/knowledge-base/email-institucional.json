@@ -1,0 +1,138 @@
+[
+  {
+    "id": "email-001",
+    "source": "Catálogo de Serviços de TI - UFRGS (E-mail Pessoal)",
+    "type": "manual",
+    "url": "https://www1.ufrgs.br/CatalogoServicos/servicos/servico?servico=3200",
+    "category": "email",
+    "content": "Todo membro da UFRGS com vínculo ativo tem direito a um e-mail institucional pessoal com domínio da Universidade, chamado ChasqueMail. O endereço pode ser no formato numerocartao@ufrgs.br ou nome.sobrenome@ufrgs.br. O serviço está disponível para alunos, professores, técnico-administrativos, aposentados e ex-alunos. Os requisitos são: ter vínculo ativo com a UFRGS (ou ser aposentado, ou associado à Associação dos Antigos Alunos no caso de ex-alunos) e ter número de identificação e senha do cartão UFRGS.",
+    "metadata": {
+      "section": "O que é o e-mail institucional",
+      "service_name": "ChasqueMail",
+      "email_formats": ["numerocartao@ufrgs.br", "nome.sobrenome@ufrgs.br"],
+      "target_audience": ["Aluno", "Professor", "Técnico-administrativo", "Aposentado", "Ex-aluno"]
+    }
+  },
+  {
+    "id": "email-002",
+    "source": "Catálogo de Serviços de TI - UFRGS (E-mail Pessoal)",
+    "type": "manual",
+    "url": "https://www1.ufrgs.br/CatalogoServicos/servicos/servico?servico=3200",
+    "category": "email",
+    "content": "Para utilizar o e-mail institucional da UFRGS, é necessário primeiro ativar a conta. Para ativar, acesse www.ufrgs.br e selecione a opção Aluno ou Servidor. Após autenticar no Portal de Serviços, acesse Catálogo de Serviços de TI > Correio Eletrônico > Informação Sobre Sua Conta de E-mail Pessoal. A ativação também pode ser feita pela opção 'Ativar serviço' na página do serviço no Catálogo de Serviços de TI.",
+    "metadata": {
+      "section": "Como ativar o e-mail",
+      "activation_path": "www.ufrgs.br > Aluno/Servidor > Portal de Serviços > Catálogo de Serviços de TI > Correio Eletrônico > Informação Sobre Sua Conta de E-mail Pessoal"
+    }
+  },
+  {
+    "id": "email-003",
+    "source": "Catálogo de Serviços de TI - UFRGS (E-mail Pessoal)",
+    "type": "manual",
+    "url": "https://www1.ufrgs.br/CatalogoServicos/servicos/servico?servico=3200",
+    "category": "email",
+    "content": "Para acessar o e-mail institucional da UFRGS, use o webmail em https://webmail.ufrgs.br/chasque/ ou configure um cliente como Outlook ou Thunderbird. No login, o campo Usuário deve ser preenchido com o número do cartão UFRGS com 8 dígitos (incluindo zeros à esquerda se necessário) seguido de @ufrgs.br — por exemplo, 00000001@ufrgs.br — ou com o endereço virtual (alias) previamente criado. O campo Senha usa a mesma senha do cartão UFRGS (a mesma do Portal de Serviços). Por segurança, a senha é válida por 360 dias.",
+    "metadata": {
+      "section": "Como acessar o webmail",
+      "webmail_url": "https://webmail.ufrgs.br/chasque/",
+      "username_format": "número do cartão (8 dígitos) + @ufrgs.br",
+      "password": "mesma senha do cartão UFRGS / Portal de Serviços",
+      "password_validity_days": 360
+    }
+  },
+  {
+    "id": "email-004",
+    "source": "Catálogo de Serviços de TI - UFRGS (E-mail Pessoal)",
+    "type": "manual",
+    "url": "https://www1.ufrgs.br/CatalogoServicos/servicos/servico?servico=3200",
+    "category": "email",
+    "content": "A cota de armazenamento do e-mail institucional da UFRGS é de 2GB para alunos e 6GB para servidores. A capacidade máxima de uma mensagem com arquivos anexados é de 20MB. É possível criar um endereço virtual (alias), que substitui o número do cartão antes do @ por nome.sobrenome. O redirecionamento de e-mails é permitido somente entre contas @ufrgs — não é possível redirecionar para provedores externos como Gmail ou Hotmail. Alterações como aumento de cota, criação de alias, configuração de cliente, desativação e desbloqueio são feitas pela opção 'Alterar serviço' no Catálogo de Serviços de TI.",
+    "metadata": {
+      "section": "Cota, alias e redirecionamento",
+      "quota_students": "2GB",
+      "quota_staff": "6GB",
+      "max_attachment_size": "20MB",
+      "external_redirect_allowed": false,
+      "alias_available": true
+    }
+  },
+  {
+    "id": "email-005",
+    "source": "Catálogo de Serviços de TI - UFRGS (E-mail Pessoal)",
+    "type": "manual",
+    "url": "https://www1.ufrgs.br/CatalogoServicos/servicos/servico?servico=3200",
+    "category": "email",
+    "content": "O e-mail institucional da UFRGS está vinculado ao vínculo ativo com a Universidade. A conta é desativada após 1 ano sem acesso de leitura (via IMAP, POP3 ou webmail), e as mensagens são mantidas por 6 meses após a desativação. Ao término do vínculo com a Universidade, a caixa postal continua funcional por 90 dias e, após esse período, é completamente desativada. Cabe ao usuário fazer backup dos dados de interesse dentro desse prazo. Não é fornecido conteúdo de caixa postal para usuário com mais de 90 dias sem vínculo ativo. Havendo nova vinculação, é possível reativar a caixa postal.",
+    "metadata": {
+      "section": "Validade da conta e fim de vínculo",
+      "deactivation_after_inactivity": "1 ano sem acesso",
+      "messages_kept_after_deactivation": "6 meses",
+      "mailbox_active_after_bond_ends": "90 dias"
+    }
+  },
+  {
+    "id": "email-006",
+    "source": "Documentação TI UFRGS - Acesso via Webmail",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/documentacaoti/email-pessoal-acesso-via-webmail-2/",
+    "category": "email",
+    "content": "Ao fazer o primeiro login no Chasque Webmail, o usuário deve confirmar ou corrigir os dados de sua identidade e clicar em Salvar, podendo editar o Nome para exibição e a Assinatura. A caixa de e-mail tem cinco pastas principais: Caixa de Entrada (mensagens novas), Rascunhos (mensagens salvas durante a composição), Enviados (mensagens enviadas), Spam (mensagens consideradas spam) e Lixeira (mensagens apagadas). Pastas adicionais podem ser criadas para organizar mensagens, pelo caminho Configurações > Pastas, onde também é possível excluir e ver o tamanho das pastas. Pastas em negrito com um número indicam mensagens não lidas.",
+    "metadata": {
+      "section": "Primeiro acesso e pastas",
+      "main_folders": ["Caixa de Entrada", "Rascunhos", "Enviados", "Spam", "Lixeira"],
+      "folder_management_path": "Configurações > Pastas"
+    }
+  },
+  {
+    "id": "email-007",
+    "source": "Documentação TI UFRGS - Acesso via Webmail",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/documentacaoti/email-pessoal-acesso-via-webmail-2/",
+    "category": "email",
+    "content": "O Chasque Webmail permite criar filtros de e-mail armazenados no servidor, que analisam campos das mensagens e executam ações automáticas (como mover para uma pasta). Os filtros são criados em Configurações > Filtros > Criar, definindo nome, escopo, regras (é possível adicionar várias) e a ação a ser tomada quando a mensagem se enquadra na regra. A barra de tarefas do webmail dá acesso a cinco áreas: E-mail (tela principal com as mensagens), Contatos (armazenamento de contatos com nome e e-mail), Calendário (agendamento e organização), Ajuda (documentação e suporte) e Configurações (personalização do webmail).",
+    "metadata": {
+      "section": "Filtros e áreas do webmail",
+      "filter_path": "Configurações > Filtros > Criar",
+      "taskbar_areas": ["E-mail", "Contatos", "Calendário", "Ajuda", "Configurações"]
+    }
+  },
+  {
+    "id": "email-008",
+    "source": "Documentação TI UFRGS - Acesso via Webmail",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/documentacaoti/email-pessoal-acesso-via-webmail-2/",
+    "category": "email",
+    "content": "Uma conta do Chasque pode ter múltiplas identidades (também chamadas de alias ou apelidos). A identidade inicial de todo usuário é numerodecartao@ufrgs.br, sempre válida para a conta. O usuário pode solicitar um alias no Portal de Serviços, pelo caminho Catálogo de Serviços > Chasque > Correio Eletrônico > Informação sobre sua conta Pessoal, selecionando a opção de cadastrar um endereço virtual. Ao fazer o primeiro login, todas as identidades válidas são cadastradas automaticamente. As identidades cadastradas podem ser conferidas em Configurações > Identidades. Ao compor uma mensagem, é possível selecionar qual identidade (remetente) usar, junto com o nome, assinatura e endereço de resposta configurados.",
+    "metadata": {
+      "section": "Identidades e alias",
+      "identities_path": "Configurações > Identidades",
+      "alias_request_path": "Portal de Serviços > Catálogo de Serviços > Chasque > Correio Eletrônico > Informação sobre sua conta Pessoal"
+    }
+  },
+  {
+    "id": "email-009",
+    "source": "Documentação TI UFRGS - Acesso via Webmail",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/documentacaoti/email-pessoal-acesso-via-webmail-2/",
+    "category": "email",
+    "content": "O Chasque Webmail permite configurar uma mensagem de férias (resposta automática), enviada pelo servidor para informar que a mensagem não será lida imediatamente. Para configurar, acesse Configurações > Fora do Escritório, edite a mensagem e clique em Salvar. Um mesmo remetente recebe apenas 1 mensagem de aviso a cada X dias (definido na regra), independentemente de quantos e-mails enviar no período. A resposta automática só é enviada para mensagens explicitamente endereçadas ao usuário — não é enviada quando o e-mail vai para listas de distribuição ou quando o endereço está em cópia oculta.",
+    "metadata": {
+      "section": "Mensagem de férias (resposta automática)",
+      "config_path": "Configurações > Fora do Escritório"
+    }
+  },
+  {
+    "id": "email-010",
+    "source": "Documentação TI UFRGS - Acesso via Webmail",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/documentacaoti/email-pessoal-acesso-via-webmail-2/",
+    "category": "email",
+    "content": "O Chasque Webmail possui um calendário para organização, agendamento e controle de tarefas e eventos, permitindo compartilhar informações com outros usuários e anexar informativos. É possível ter vários perfis de calendário, criar novos eventos com repetições e lembretes, adicionar anexos, compartilhar com participantes, alterar a exibição (dia, semana, mês ou agendamentos) e importar/exportar calendários. A aparência do webmail pode ser alterada em Configurações > Interface do usuário, na seção Aparência da Interface (Tema), com as opções Classic, Elastic e Larry (padrão). O tema Classic não dispõe da opção de calendário.",
+    "metadata": {
+      "section": "Calendário e temas",
+      "theme_path": "Configurações > Interface do usuário",
+      "themes": ["Classic", "Elastic", "Larry"],
+      "note": "Tema Classic não possui calendário"
+    }
+  }
+]

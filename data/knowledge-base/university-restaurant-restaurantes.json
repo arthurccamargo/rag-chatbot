@@ -1,0 +1,129 @@
+[
+  {
+    "id": "ru-000",
+    "source": "PRAE - Restaurantes Universitários",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/restaurantes-universitarios/",
+    "category": "university-restaurant",
+    "content": "Os Restaurantes Universitários (RUs) da UFRGS têm por finalidade a oferta de refeições ao corpo discente, docente e técnico-administrativo da Universidade, assegurando alimentação de qualidade e em quantidade adequada. A Divisão de Alimentação (DAL) é responsável pela gestão contratual e pela fiscalização da empresa responsável pela operação dos RUs, garantindo o cumprimento das cláusulas contratuais, a qualidade dos serviços prestados e o atendimento às normas sanitárias e nutricionais vigentes. As refeições dos RUs são produzidas por empresas terceirizadas, através de contratos minuciosamente fiscalizados pelo quadro técnico da DAL. Para o planejamento dos cardápios, leva-se em consideração o gasto energético de adultos saudáveis que, segundo as diretrizes nutricionais, é de aproximadamente 2000 Kcal/dia. Os alimentos são selecionados de forma consciente e equilibrada às condições ambientais, econômicas e sociais de sua produção, a fim de promover boa nutrição e saúde para a comunidade acadêmica.",
+    "metadata": {
+      "section": "Descrição institucional",
+      "responsible_department": "Divisão de Alimentação (DAL)"
+    }
+  },
+  {
+    "id": "ru-001",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU01 - Campus Centro está localizado na Av. João Pessoa, 41 – Centro. Funciona de segunda a sexta-feira, servindo almoço das 11h às 14h e jantar das 17h30min às 19h.",
+    "metadata": {
+      "restaurant_code": "RU01",
+      "name": "Campus Centro",
+      "address": "Av. João Pessoa, 41 – Centro",
+      "serves_lunch": true,
+      "serves_dinner": true,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": "17h30min às 19h"
+    }
+  },
+  {
+    "id": "ru-002",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU02 - Campus Saúde está localizado na Av. Ramiro Barcelos, 2500 – Santa Cecília. Funciona de segunda a sexta-feira, servindo almoço das 11h às 14h e jantar das 17h30min às 19h.",
+    "metadata": {
+      "restaurant_code": "RU02",
+      "name": "Campus Saúde",
+      "address": "Av. Ramiro Barcelos, 2500 – Santa Cecília",
+      "serves_lunch": true,
+      "serves_dinner": true,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": "17h30min às 19h"
+    }
+  },
+  {
+    "id": "ru-003",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU03 - Campus do Vale está localizado na Av. Bento Gonçalves, 9500 – Agronomia. Funciona de segunda a sexta-feira, servindo apenas almoço das 11h às 14h. Este restaurante não oferece jantar.",
+    "metadata": {
+      "restaurant_code": "RU03",
+      "name": "Campus do Vale",
+      "address": "Av. Bento Gonçalves, 9500 – Agronomia",
+      "serves_lunch": true,
+      "serves_dinner": false,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": null,
+      "note": "Serve apenas almoço, não possui jantar"
+    }
+  },
+  {
+    "id": "ru-004",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU04 - Campus Agronomia está localizado na Av. Bento Gonçalves, 7412 – Agronomia. Funciona de segunda a sexta-feira, servindo almoço das 11h às 14h e jantar das 17h30min às 19h.",
+    "metadata": {
+      "restaurant_code": "RU04",
+      "name": "Campus Agronomia",
+      "address": "Av. Bento Gonçalves, 7412 – Agronomia",
+      "serves_lunch": true,
+      "serves_dinner": true,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": "17h30min às 19h"
+    }
+  },
+  {
+    "id": "ru-005",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU05 - Campus ESEFID está localizado na Rua Felizardo, 750 – Jardim Botânico. Funciona de segunda a sexta-feira, servindo almoço das 11h às 14h e jantar das 17h30min às 19h.",
+    "metadata": {
+      "restaurant_code": "RU05",
+      "name": "Campus ESEFID",
+      "address": "Rua Felizardo, 750 – Jardim Botânico",
+      "serves_lunch": true,
+      "serves_dinner": true,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": "17h30min às 19h"
+    }
+  },
+  {
+    "id": "ru-006",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O RU06 - Campus do Vale (Bloco IV) está localizado na Av. Bento Gonçalves, 9500 – Agronomia. Funciona de segunda a sexta-feira, servindo almoço das 11h às 14h e jantar das 17h30min às 19h.",
+    "metadata": {
+      "restaurant_code": "RU06",
+      "name": "Campus do Vale - Bloco IV",
+      "address": "Av. Bento Gonçalves, 9500 – Agronomia",
+      "serves_lunch": true,
+      "serves_dinner": true,
+      "lunch_hours": "11h às 14h",
+      "dinner_hours": "17h30min às 19h"
+    }
+  },
+  {
+    "id": "ru-007",
+    "source": "PRAE - Cardápio RU",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/cardapio-ru/",
+    "category": "university-restaurant",
+    "content": "O cardápio semanal dos Restaurantes Universitários da UFRGS é atualizado semanalmente e está sujeito a alterações sem aviso prévio. Para consultar o cardápio atualizado de cada restaurante (RU01, RU02, RU03, RU04, RU05 e RU06), acesse o site oficial da PRAE: https://www.ufrgs.br/prae/cardapio-ru/",
+    "metadata": {
+      "section": "Redirecionamento cardápio",
+      "menu_url": "https://www.ufrgs.br/prae/cardapio-ru/"
+    }
+  }
+]

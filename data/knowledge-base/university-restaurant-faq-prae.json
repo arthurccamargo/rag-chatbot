@@ -1,0 +1,115 @@
+[
+  {
+    "id": "ru-018",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "O valor da refeição no Restaurante Universitário da UFRGS varia por categoria de usuário: alunos beneficiários PRAE têm isenção (valor R$ 0,00), mas devem gerar o tíquete normalmente; alunos regulares da UFRGS pagam R$ 1,30; alunos especiais pagam R$ 14,52; servidores e terceirizados da UFRGS pagam R$ 14,52 (incluindo estagiários de pós-doutorado); visitantes (alunos, docentes e servidores externos) pagam R$ 14,52. Aluno regular é aquele com vínculo válido e matrícula ativa em curso de graduação ou pós-graduação em andamento. Matrícula em cadeiras isoladas não configura aluno regular.",
+    "metadata": {
+      "section": "FAQ RU - Valor da refeição",
+      "price_prae_students": "R$ 0,00 (isentos)",
+      "price_regular_students": "R$ 1,30",
+      "price_special_students": "R$ 14,52",
+      "price_staff": "R$ 14,52",
+      "price_visitors": "R$ 14,52"
+    }
+  },
+  {
+    "id": "ru-019",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "Para acessar o Restaurante Universitário, o usuário deve passar o cartão na leitora ou digitar seu número de matrícula no teclado. Após a confirmação de usuário, digita-se o número do tíquete eletrônico (sequência de 6 dígitos). Com o tíquete validado, o acesso é liberado. O acesso é permitido somente uma vez por refeição. O uso irregular pode causar restrições futuras ao uso dos RUs. Os tíquetes são eletrônicos — não há necessidade de impressão ou retirada, basta conhecer a sequência numérica de 6 dígitos para digitá-la durante o acesso.",
+    "metadata": {
+      "section": "FAQ RU - Como acessar e o que são os tíquetes",
+      "ticket_digits": 6,
+      "requires_printing": false,
+      "access_limit": "uma vez por refeição"
+    }
+  },
+  {
+    "id": "ru-020",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "Os tíquetes eletrônicos do RU não possuem prazo de validade e podem ser utilizados em semestres seguintes. Para comprar e consultar tíquetes: alunos devem acessar www.ufrgs.br > portal de serviços > assistência estudantil > tíquetes RU; servidores devem acessar www.ufrgs.br > portal de serviços > gestão > restaurante universitário > tíquetes RU. Os tíquetes também ficam disponíveis no aplicativo UFRGS mobile, no menu RU. É necessário manter o cadastro atualizado com CPF válido para que o sistema associe os tíquetes corretamente.",
+    "metadata": {
+      "section": "FAQ RU - Tíquetes: validade e onde comprar",
+      "has_expiry_date": false,
+      "student_portal_path": "portal de serviços > assistência estudantil > tíquetes RU",
+      "staff_portal_path": "portal de serviços > gestão > restaurante universitário > tíquetes RU",
+      "mobile_app": "UFRGS mobile - menu RU"
+    }
+  },
+  {
+    "id": "ru-021",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "No momento da compra de tíquetes, o usuário recebe até 6 tíquetes antecipados, garantindo duas refeições diárias por 3 dias até a compensação do boleto. Esses tíquetes antecipados são descontados da compra total — funcionam como um empréstimo, não como gratuidade. Por exemplo: ao comprar 10 tíquetes, recebe-se até 6 antecipadamente e, após a compensação do boleto, os 4 restantes são liberados. Se o usuário já tiver 2 tíquetes disponíveis no momento da nova compra, receberá apenas 4 antecipados para completar os 6. O prazo de liberação após pagamento é: boleto pago no Banco do Brasil até 48h úteis; boleto pago em outros bancos até 72h úteis.",
+    "metadata": {
+      "section": "FAQ RU - Antecipação de tíquetes e prazo de liberação",
+      "max_advance_tickets": 6,
+      "bb_release_hours": "até 48h úteis",
+      "other_banks_release_hours": "até 72h úteis"
+    }
+  },
+  {
+    "id": "ru-022",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "Estudantes que perderem o vínculo com a UFRGS (por formatura, vínculo como aluno especial ou outros casos) e tiverem tíquetes sobrando podem solicitar reembolso. Alunos devem acessar aluno.sei.ufrgs.br e abrir o processo 'Assistência estudantil – reembolso de tíquetes RU (alimentação)', preenchendo o documento principal e anexando a GRU (guia de recolhimento da União) e comprovante de pagamento. Servidores devem acessar www.sei.ufrgs.br e seguir o mesmo processo. Tíquetes sem uso não têm prazo de validade e podem ser usados normalmente em semestres seguintes caso o vínculo seja mantido.",
+    "metadata": {
+      "section": "FAQ RU - Reembolso de tíquetes",
+      "student_sei_url": "aluno.sei.ufrgs.br",
+      "process_name": "Assistência estudantil – reembolso de tíquetes RU (alimentação)"
+    }
+  },
+  {
+    "id": "ru-023",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "Não é permitido retirar alimentos dos Restaurantes Universitários em potes, marmitas, pratos ou similares. A instituição só pode garantir a qualidade sanitária das refeições enquanto estiverem dentro dos RUs. Uma vez retiradas, não há controle sobre o acondicionamento e manipulação, mas a responsabilidade técnica permanece da Nutricionista Responsável Técnica que supervisionou a produção.",
+    "metadata": {
+      "section": "FAQ RU - Retirada de alimentos",
+      "food_takeout_allowed": false
+    }
+  },
+  {
+    "id": "ru-024",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "O acesso ao RU por pessoas externas à UFRGS é permitido apenas para participantes de eventos e congressos realizados pela UFRGS, ou servidores e discentes de outras instituições em missão acadêmica. O acesso depende de autorização prévia da DAL. Um servidor docente ou técnico-administrativo da UFRGS responsável pelo evento deve enviar e-mail para fiscalizaru@ufrgs.br informando: comprovante de matrícula da universidade de origem, comprovante de atividade acadêmica com a UFRGS, período de utilização, RU de intenção, refeições desejadas (almoço e/ou jantar), nome completo, endereço completo e CPF. O valor cobrado é R$ 14,52 por refeição. O comprovante de pagamento deve ser enviado ao mesmo e-mail três dias antes da primeira utilização.",
+    "metadata": {
+      "section": "FAQ RU - Acesso de pessoas externas",
+      "external_access_allowed": true,
+      "external_access_condition": "apenas para eventos/congressos UFRGS ou missão acadêmica",
+      "contact_email": "fiscalizaru@ufrgs.br",
+      "price_external": "R$ 14,52",
+      "advance_notice_days": 3
+    }
+  },
+  {
+    "id": "ru-025",
+    "source": "PRAE - Dúvidas Frequentes",
+    "type": "manual",
+    "url": "https://www.ufrgs.br/prae/perguntas-frequentes/",
+    "category": "university-restaurant",
+    "content": "Servidores terceirizados que prestam serviços regulares à UFRGS podem utilizar os Restaurantes Universitários. O acesso se dá por CPF, tanto para entrar no RU quanto para adquirir os tíquetes. Para comprar os tíquetes, o terceirizado deve acessar o Portal Externo (https://www1.ufrgs.br/PortalExterno/site/login/terceirizado). No primeiro acesso, é necessário cadastrar uma senha seguindo as instruções do próprio portal.",
+    "metadata": {
+      "section": "FAQ RU - Acesso de terceirizados",
+      "external_portal_url": "https://www1.ufrgs.br/PortalExterno/site/login/terceirizado",
+      "identification": "CPF"
+    }
+  }
+]

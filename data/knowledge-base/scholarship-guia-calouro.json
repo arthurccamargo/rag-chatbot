@@ -1,0 +1,30 @@
+[
+  {
+    "id": "scholarship-009",
+    "source": "Guia do Calouro UFRGS — Faculdade de Arquitetura (adaptado)",
+    "type": "pdf",
+    "url": "https://www.ufrgs.br/academicoarqdesign/",
+    "category": "scholarship",
+    "content": "O Programa de Benefícios da PRAE é voltado para alunos de baixa renda e prevê: desconto ou isenção nas refeições nos Restaurantes Universitários, atendimento no Departamento de Atenção à Saúde e na Faculdade de Odontologia, auxílio nas despesas com transporte, moradia e material de ensino, entre outros benefícios. Informações sobre procedimentos, documentação e critérios de concessão estão disponíveis no site https://www.ufrgs.br/prae/, pelo telefone 3308-3062 ou pelo e-mail prae@prae.ufrgs.br.",
+    "metadata": {
+      "section": "Programa de benefícios PRAE",
+      "prae_url": "https://www.ufrgs.br/prae/",
+      "prae_phone": "3308-3062",
+      "prae_email": "prae@prae.ufrgs.br"
+    }
+  },
+  {
+    "id": "scholarship-010",
+    "source": "Guia do Calouro UFRGS — Faculdade de Arquitetura (adaptado)",
+    "type": "pdf",
+    "url": "https://www.ufrgs.br/academicoarqdesign/",
+    "category": "scholarship",
+    "content": "A PRAE oferece um programa de bolsas e estágios para que estudantes aprimorem o conhecimento obtido em sala de aula por meio de experiências profissionais realizadas em setores da UFRGS. As modalidades disponíveis incluem a Bolsa Aperfeiçoamento e a Bolsa de Informática. As vagas são divulgadas principalmente no Mural de Bolsas em https://www.ufrgs.br/bolsas/. Mais informações pelo telefone 3308-3076 ou pelo e-mail bolsaprae@prae.ufrgs.br.",
+    "metadata": {
+      "section": "Programa de bolsas PRAE",
+      "bolsas_url": "https://www.ufrgs.br/bolsas/",
+      "phone": "3308-3076",
+      "email": "bolsaprae@prae.ufrgs.br"
+    }
+  }
+]

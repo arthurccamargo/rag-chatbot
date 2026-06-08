@@ -1,0 +1,84 @@
+[
+  {
+    "id": "withdrawal-001",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "O trancamento de matrícula é uma pausa voluntária e imotivada que o discente pode solicitar, observados os prazos do Calendário Escolar, ainda que não tenha realizado matrícula no semestre. A soma dos períodos de trancamento não pode ultrapassar 4 (quatro) períodos letivos regulares. Os períodos de trancamento não são computados no prazo de integralização do curso. O discente com matrícula trancada pode renovar o trancamento após o início do semestre em que deveria retornar, desde que não ultrapasse o limite de 4 períodos. O retorno após o fim do trancamento é automático para o período regular seguinte.",
+    "metadata": {
+      "section": "Do Trancamento de Matrícula",
+      "max_periods": 4,
+      "counts_toward_completion_deadline": false,
+      "return_is_automatic": true,
+      "legal_reference": "Resolução 11/2013, Art. 27"
+    }
+  },
+  {
+    "id": "withdrawal-002",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "Excepcionalmente, o discente pode solicitar trancamento de matrícula fora do prazo, dentro do período letivo em curso, mediante processo administrativo encaminhado à Comissão de Graduação do curso, instruído com justificativa e comprovantes. A Comissão de Graduação tem prazo máximo de 10 (dez) dias úteis para emitir decisão fundamentada, dar ciência ao discente e, se deferida, encaminhar o processo à PROGRAD.",
+    "metadata": {
+      "section": "Trancamento fora do prazo (excepcional)",
+      "decision_deadline_business_days": 10,
+      "legal_reference": "Resolução 11/2013, Art. 27, §5º e §6º"
+    }
+  },
+  {
+    "id": "withdrawal-003",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "O cancelamento justificado de matrícula em Atividades de Ensino pode ser solicitado após decorrido o prazo de exclusão, dentro do período letivo em curso, mediante solicitação à Comissão de Graduação do curso, com justificativa e comprovantes. A Comissão tem até 10 dias úteis para decidir. O cancelamento justificado de uma mesma Atividade de Ensino pode ser feito no máximo duas vezes. Não é permitido cancelar todas as Atividades de Ensino em que o discente está matriculado. A exclusão de disciplinas dentro do prazo de matrícula não é considerada cancelamento.",
+    "metadata": {
+      "section": "Do Cancelamento Justificado de Matrícula",
+      "max_cancellations_per_activity": 2,
+      "decision_deadline_business_days": 10,
+      "legal_reference": "Resolução 11/2013, Art. 26"
+    }
+  },
+  {
+    "id": "withdrawal-004",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "O abandono de curso ocorre quando o discente não se enquadra nas situações de vínculo previstas (matrícula, licenças, afastamentos ou matrícula em nenhuma atividade). O abandono por dois períodos letivos regulares consecutivos, ou por três períodos intercalados, acarreta o desligamento definitivo do discente do curso. Diferente do trancamento, o período de abandono É computado no prazo de integralização do curso. Discentes em abandono que ainda não foram desligados definitivamente podem ser readmitidos.",
+    "metadata": {
+      "section": "Do Abandono de Curso",
+      "consecutive_periods_for_dismissal": 2,
+      "intercalated_periods_for_dismissal": 3,
+      "counts_toward_completion_deadline": true,
+      "legal_reference": "Resolução 11/2013, Art. 28"
+    }
+  },
+  {
+    "id": "withdrawal-005",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "A readmissão permite o retorno do discente que incidiu em abandono de curso. O discente pode ser readmitido no período letivo subsequente após a primeira incidência em abandono, ou após a segunda incidência desde que no período anterior não tenha incidido em abandono. A readmissão se dá sempre no currículo vigente. Só é readmitido o discente cuja Taxa de Integralização Média do Discente (TIMD) seja maior ou igual à metade da Taxa de Integralização Média (TIM) do curso. A readmissão é automática no período letivo subsequente ao abandono.",
+    "metadata": {
+      "section": "Da Readmissão",
+      "min_timd": "metade da TIM do curso",
+      "legal_reference": "Resolução 11/2013, Art. 29"
+    }
+  },
+  {
+    "id": "withdrawal-006",
+    "source": "Resolução nº 11/2013 - CEPE/UFRGS (Normas Básicas da Graduação)",
+    "type": "pdf",
+    "url": "http://www.ufrgs.br/cepe/legislacao/resolucao-no-11-2013-de-24-04-2013",
+    "category": "withdrawal",
+    "content": "O discente é desligado definitivamente da UFRGS nos casos de: aplicação de sanção de desligamento por processo administrativo disciplinar; manifestação expressa de desistência mediante processo no Protocolo Geral da UFRGS; insuficiência de desempenho acadêmico; incidência em abandono de curso sem possibilidade de readmissão; transferência para outra Instituição de Ensino Superior; jubilamento (por atingir o tempo máximo de conclusão do curso); inobservância das normas do PEC-G; ou diplomação sem possibilidade de permanência.",
+    "metadata": {
+      "section": "Do Desligamento Definitivo",
+      "legal_reference": "Resolução 11/2013, Art. 71"
+    }
+  }
+]
